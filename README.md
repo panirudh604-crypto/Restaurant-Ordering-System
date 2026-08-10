@@ -5,27 +5,26 @@ The application allows users to browse a restaurant menu, place orders, update q
 
 ✨ Features:
 
-- View Restaurant Menu
-- Place New Order
-- View Current Order
-- Update Item Quantity
-- Remove Item from Order
-- Search Menu Items
-- Generate Restaurant Bill
-- Save Orders
-- View Previous Orders
-- Exit Application
+- View Restaurant Menu.
+- Place New Order.
+- View Current Order.
+- Update Item Quantity.
+- Remove Item from Order.
+- Search Menu Items.
+- Generate Restaurant Bill.
+- Save Orders.
+- View Previous Orders.
+- Exit Application.
 
 🛠️ Concepts Used:
 
-- Python Functions
-- Conditional Statements
-- Loops
-- Dictionaries
-- Lists
-- Exception Handling ("try" / "except")
-- String Formatting (f-strings)
-- User Input Validation
+- Python Functions.
+- Conditional Statements.
+- Loops.
+- Collections.
+- Exception Handling .
+- String Formatting.
+- User Input Validation.
 
 📌 How It Works:
 
