@@ -1,4 +1,4 @@
-# Restaurant-Ordering-System
+# Restaurant Ordering System
 
 A console-based Restaurant Ordering System developed using Python as a mini project to practice programming fundamentals and improve problem-solving skills.
 The application allows users to browse a restaurant menu, place orders, update quantities, remove items, search menu items, generate bills, save completed orders, and view previously saved orders through a simple menu-driven interface.
